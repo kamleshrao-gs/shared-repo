@@ -1,2 +1,2 @@
-# shared-repo
-Shared Repo
+# Shared Repo
+This is my Shared Repo
